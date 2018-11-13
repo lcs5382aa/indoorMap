@@ -19,7 +19,7 @@ import yg.devp.util.Useful;
 
 import static yg.devp.util.Useful.LOG_COMM_SERVER;
 
-/* 2018-11-10 04:00 LBS system design */
+/* 2018-11-13 20:53 indoorMap */
 
 public class MainActivity extends BLEActivity {
 
