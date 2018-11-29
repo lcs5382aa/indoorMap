@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CNN4IPS</string>
+    <string name="app_name">indoorMap</string>
     <string name="btn_main_ble">BLE</string>
     <string name="btn_main_query">Query</string>
     <string name="btn_main_save">Save</string>

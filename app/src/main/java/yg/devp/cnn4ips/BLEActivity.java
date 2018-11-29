@@ -38,9 +38,9 @@ public class BLEActivity extends AppCompatActivity {
 
     // Etc
     private int REQUEST_ENABLE_BT = 1;
-    private String beacon1MacAddress = "CB:14:A3:26:5E:63"; // beacon1 ID
-    private String beacon2MacAddress = "C6:7E:99:68:13:7E"; // beacon2 ID
-    private String beacon3MacAddress = "F8:68:A9:E5:67:BF"; // beacon3 ID
+    private String beacon1MacAddress = "C2:01:19:00:03:B1"; // beacon1 ID
+    private String beacon2MacAddress = "C2:01:19:00:03:B7"; // beacon2 ID
+    private String beacon3MacAddress = "C2:01:19:00:03:B3"; // beacon3 ID
     private String cellNumber = "0"; // cellNumber
     private static int buttonType = 0; // 1: query, 2: save
     private static int setNumber = 0; // beacon set's number
